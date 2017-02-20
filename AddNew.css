@@ -164,3 +164,8 @@ p a{
   width: 300px;
   border: 1px solid black;
 }
+
+h1 a{
+  text-decoration: none;
+  color: white;
+}
